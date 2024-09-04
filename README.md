@@ -1,2 +1,2 @@
 # Prysmo
-Um guia simples sobre lontras e seus tipos
+Conheça um pouco sobre o mundo das lontras através da integração com IA!
